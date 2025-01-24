@@ -21,3 +21,5 @@
       ansible.builtin.command: mysql_secure_installation --set-root-pass RoboShop@1
     - name: new password
       ansible.builtin.command: mysql -uroot -pRoboShop@1
+
+      this is created by swamy
