@@ -56,3 +56,5 @@
         name: dispatch
         state: started
         enabled: 'yes'
+
+        this is last component
